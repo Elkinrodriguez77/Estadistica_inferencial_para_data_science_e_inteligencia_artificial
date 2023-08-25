@@ -58,3 +58,11 @@ Ejemplo:
 ### Interpretación del resultado
 
 Sabemos que con un 95% de certeza de las edades de las personas que esquían están entre dos valores.
+
+# Clase 18 - Bootstrapping
+
+Se usa para hacer muestreo sobre conjuntos de datos que suelen ser muy pequeños.
+
+# Clase 20 - Validación cruzada
+
+Es como una forma de evaluar diferentes resultados para evaluar un modelo. Para que quede claro la precisión del modelo.
